@@ -1,0 +1,40 @@
+{
+  "name": "Revenue Share %",
+  "description": "This Code Calculates the Revenue Share % ",
+  "author": "Thotapalli Nitin",
+  "params": [
+    {
+      "name": "num1",
+      "displayName": "Total Units in Lakhs",
+      "type": "number"
+    },
+    {
+      "name": "num2",
+      "displayName": "Company Profit in 33 Months",
+      "type":"number"
+    },
+    {
+      "name": "num3",
+      "displayName": "Total Revenue Share",
+      "type":"number"
+    },
+    {
+      "name": "num4",
+      "displayName": "Company Revenue in 33 Months",
+      "type":"number"
+    },
+    {
+      "name": "num5",
+      "displayName": "Total Units in Comp. Finantials",
+      "type":"number"
+    },
+    {
+      "name": "num6",
+      "displayName": "Total Aggregated Wealth Points",
+      "type":"number"
+    }
+  ],
+  "result": {
+    "type": "number"
+  }
+}
